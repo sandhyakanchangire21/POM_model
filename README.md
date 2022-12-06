@@ -11,5 +11,6 @@ Project is created with:
 * Testng version 7.4.0
 * for write the code used: Eclipse IDE
 ## Setup
+first to clone the project on your machine and import it after that
 To run this project, install it locally using CI or run as TestNG suite aswell or run IMDBtest.java class run as TestNG Test
 after running the project one folder is created in the project which is in test-out folder->emailable-report.html
